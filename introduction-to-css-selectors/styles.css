@@ -1,0 +1,31 @@
+/* Type */
+body {
+  background-color: lavender;
+}
+
+#div-1 {
+  background-color: peachpuff;
+}
+
+/* classes start with full stop - multiple elements -  */
+.list-item {
+  background-color: darkseagreen;
+}
+
+.main-heading {
+  background-color: lightskyblue;
+}
+
+.nav-item-1 {
+  background-color: mediumpurple;
+}
+
+.nav-2 {
+  background-color: gold;
+}
+
+/* ID Selectors are very specfic - used for headers - used often for skip to content  */
+
+#first-paragraph {
+  background-color: lightcoral;
+}
